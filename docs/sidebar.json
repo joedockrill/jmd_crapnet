@@ -1,6 +1,6 @@
 {
   "jmd_crapnet": {
     "Overview": "/",
-    "module name here": "core.html"
+    "jmd_crapnet.core": "core.html"
   }
 }
